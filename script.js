@@ -14,7 +14,7 @@ function fibonacci(n) {
 			v.push(sum);
 		}
 
-	return v[n];
+	return v[n-1];
 }
 
 module.exports = fibonacci;
