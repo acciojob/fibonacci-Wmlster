@@ -1,4 +1,4 @@
-function fibonacci(num) {
+function fibonacci(n) {
 // your code here
 
 	let v=[0,1];
